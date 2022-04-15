@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Score
   - Die
+  - UIMng
   layers:
   - Default
   - TransparentFX
